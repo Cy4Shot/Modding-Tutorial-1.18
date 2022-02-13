@@ -1,0 +1,36 @@
+{
+	"variants": {
+		"facing=north,lit=true": {
+			"model": "tutorialmod:block/rotatable_block",
+			"y": 270
+		},
+		"facing=east,lit=true": {
+			"model": "tutorialmod:block/rotatable_block",
+			"y": 0
+		},
+		"facing=south,lit=true": {
+			"model": "tutorialmod:block/rotatable_block",
+			"y": 90
+		},
+		"facing=west,lit=true": {
+			"model": "tutorialmod:block/rotatable_block",
+			"y": 180
+		},
+		"facing=north,lit=false": {
+			"model": "tutorialmod:block/rotatable_block",
+			"y": 270
+		},
+		"facing=east,lit=false": {
+			"model": "tutorialmod:block/rotatable_block",
+			"y": 0
+		},
+		"facing=south,lit=false": {
+			"model": "tutorialmod:block/rotatable_block",
+			"y": 90
+		},
+		"facing=west,lit=false": {
+			"model": "tutorialmod:block/rotatable_block",
+			"y": 180
+		}
+	}
+}
