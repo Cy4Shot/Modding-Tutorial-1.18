@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "aba",
+    "bab",
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "item": "tutorialmod:example_block"
+    },
+    "b": {
+      "tag": "tutorialmod:cool_items"
+    }
+  },
+  "result": {
+    "item": "tutorialmod:example_item",
+    "count": 10
+  }
+}

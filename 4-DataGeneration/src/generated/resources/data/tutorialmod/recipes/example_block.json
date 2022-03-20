@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "tutorialmod:example_item"
+    },
+    {
+      "item": "tutorialmod:example_item"
+    },
+    {
+      "item": "tutorialmod:example_item"
+    },
+    {
+      "item": "minecraft:diamond"
+    }
+  ],
+  "result": {
+    "item": "tutorialmod:example_block",
+    "count": 4
+  }
+}

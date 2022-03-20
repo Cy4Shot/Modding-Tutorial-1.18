@@ -1,0 +1,27 @@
+modLoader="javafml"
+loaderVersion="[39,)"
+license="MIT"
+[[mods]]
+modId="tutorialmod"
+version="${file.jarVersion}"
+displayName="Tutorial Mod "
+logoFile="examplemod.png"
+credits="A tutorial mod by Cy4"
+authors="Cy4"
+description='''
+A tutorial mod by Cy4.
+'''
+
+[[dependencies.tutorialmod]] 
+    modId="forge"
+    mandatory=true
+    versionRange="[39,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.tutorialmod]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.18.1,1.19)"
+    ordering="NONE"
+    side="BOTH"
